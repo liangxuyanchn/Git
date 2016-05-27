@@ -9,5 +9,6 @@
 <body>
 	<h2>Index Page</h2>
 	<h1>top</h1>
+	<h2>footer</h2>
 </body>
 </html>
