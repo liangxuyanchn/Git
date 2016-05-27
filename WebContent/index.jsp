@@ -11,5 +11,6 @@
 	<h1>top</h1>
 	<h2>footer</h2>
 	<h2>conflict1</h2>
+	<h2>conflict2</h2>
 </body>
 </html>
